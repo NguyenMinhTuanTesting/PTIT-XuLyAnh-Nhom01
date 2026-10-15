@@ -1,0 +1,7 @@
+﻿Image,Degradation,PSNR_before,PSNR_after,SSIM_before,SSIM_after
+lowlight_camera,lowlight,13.757,15.467,0.6615,0.6618
+lowlight_coins,lowlight,13.084,15.471,0.5464,0.6033
+noise_moon,noise,18.96,26.577,0.1891,0.879
+noise_clock,noise,22.128,20.296,0.1535,0.1431
+blur_page,blur,19.102,18.352,0.6071,0.6465
+blur_coffee,blur,26.914,20.837,0.7827,0.7653

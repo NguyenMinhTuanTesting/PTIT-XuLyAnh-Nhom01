@@ -1,0 +1,5 @@
+Data source: scikit-image built-in sample images (camera, coins, moon, clock, page, coffee).
+Data processing: simulated low light, Gaussian noise sigma=20, salt-pepper 5%, or Gaussian blur sigma=2.
+Credit/license must be reviewed for each upstream sample before redistribution.
+Documentation: https://scikit-image.org/docs/stable/api/skimage.data.html
+These are NOT six independent photos captured by the student.

@@ -1,0 +1,19 @@
+Preparing six distinct sample sources and synthetic degradations...
+
+B1: verification
+B1 | Algorithm | MAE | NumPy ms | OpenCV ms
+hist_equalize | 0.000000 | 0.89 | 0.25
+conv2d_5x5 | 0.000000 | 117.94 | 0.73
+median_filter_5 | 0.000000 | 66.59 | 0.46
+laplacian_sharpen_c1 | 0.000000 | 3.82 | 0.77
+
+B2: parameter sweeps
+
+B3: combined pipeline
+
+B4: failure cases
+
+Generating 5-page PDF report...
+Wrote: BaoCao_B1_Nhom01.pdf
+
+DONE. Check data/, results/, BaoCao_B1_Nhom01.pdf
